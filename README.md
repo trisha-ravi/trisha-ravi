@@ -22,9 +22,9 @@ I'm a creative soul driven by the thrill of shaping digital realms and crafting 
 - Machine Learning 
 
 ## ✨ Fun Facts
-- I'm passionate about expressing myself through art and enjoy spending hours immersed in sketching and drawing.
-- An avid traveler, I've visited 3 countries and counting, always seeking new adventures.
-- I'm an avid gardener and find solace in nurturing plants and watching them flourish.
+- 🎨 I'm passionate about expressing myself through art and enjoy spending hours immersed in sketching and drawing.
+- 🌍 An avid traveler, I've visited 3 countries and counting, always seeking new adventures.
+- 🌱 I'm an avid gardener and find solace in nurturing plants and watching them flourish.
 
 ## 📫 Contact
 Drop me a message on [LinkedIn](https://www.linkedin.com/in/trisha-ravichandran/) for swift communication.
