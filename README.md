@@ -9,13 +9,17 @@ I'm a creative soul driven by the thrill of shaping digital realms and crafting 
 ## 💻 Skills & Interests
 ### Technical Skills:
 - **Languages:** Java, Python, JavaScript
-- **Web Dev:** HTML/CSS, Android Development
+- **Web Dev:** HTML/CSS, React.js, Android Development
 - **Software Dev:** Principles, Database Management
 ### Tools & Technologies:
 - **Version Control:** Git
 - **Operating Systems:** Linux
 - **Productivity:** Microsoft Office, Figma
 - **Cloud Services:** AWS, Cybersecurity Fundamentals
+### Interests:
+- Artificial Intelligence
+- Cybersecurity
+- Machine Learning 
 
 ## ✨ Fun Facts
 - I'm passionate about expressing myself through art and enjoy spending hours immersed in sketching and drawing.
