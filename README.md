@@ -18,9 +18,9 @@ I'm a creative soul driven by the thrill of shaping digital realms and crafting 
 - **Cloud Services:** AWS, Cybersecurity Fundamentals
 
 ## ✨ Fun Facts
-- I'm a certified scuba diver and love exploring the wonders of the underwater world.
-- An avid traveler, I've visited [2] countries and counting, always seeking new adventures.
-- In my spare time, I enjoy experimenting with gourmet cooking and creating culinary masterpieces.
+- I'm passionate about expressing myself through art and enjoy spending hours immersed in sketching and drawing.
+- An avid traveler, I've visited 3 countries and counting, always seeking new adventures.
+- I'm an avid gardener and find solace in nurturing plants and watching them flourish.
 
 ## 📫 Contact
 Drop me a message on [LinkedIn](https://www.linkedin.com/in/trisha-ravichandran/) for swift communication.
